@@ -36,3 +36,6 @@ ARIA Labels: Use ARIA (Accessible Rich Internet Applications) labels to improve 
 6. Testing and Optimization<br>
 Cross-Device Testing: Regularly test the website on various devices and browsers to ensure consistent performance.<br>
 User Feedback: Collect and analyze user feedback to identify pain points and areas for improvement.<br>
+
+![Screenshot 2024-05-24 103547](https://github.com/webHimanshusingh/real-estate-website/assets/170223793/0b13c16d-5542-4fe0-8611-03d51e112717)
+
