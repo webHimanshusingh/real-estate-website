@@ -2,7 +2,7 @@
 This is my real estate<br>
 LinkedIn- https://www.linkedin.com/in/website-himanshu-singh<br>
 GitHub- https://github.com/webHimanshusingh <br>
-<h1>Join us</h1>
+# Join us
 1. Responsive Design Principles <br>
 Fluid Grid Layouts: Use percentage-based grids to allow content to flow and resize based on the screen size.<br>
 Flexible Images and Media: Ensure images, videos, and other media adjust according to the device’s width using CSS techniques like max-width: 100%.<br>
